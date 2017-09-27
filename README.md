@@ -13,12 +13,14 @@ In the process you'll learn about important aspects of Natural Language Processi
 You'll come out being able to visualize word frequency histograms of any novel that you can find on Project Gutenberg.
 The NLP skills you develop, however, will be applicable to much of the data that Data Scientists encounter as the vast proportion of the world's data is unstructured data and includes a great deal of text.
 
+For example, what would the following word frequency histogram be from?
+
+<img src="img/d-x.png" width="450">
+
 ## Prerequisites
 
 Not a lot. It would help if you knew programming fundamentals and the basics of the Python programming language (e.g., variables, for loops) and had a bit of experience with Jupyter Notebooks.
 However, I have always found that the most important and beneficial prerequisite is a will to learn new things so if you have this quality, you'll definitely get something out of this code-along session.
-
-<img src="img/d-x.png" width="350">
 
 
 ## Getting set up computationally
