@@ -19,8 +19,10 @@ For example, what would the following word frequency histogram be from?
 
 ## Prerequisites
 
-Not a lot. It would help if you knew programming fundamentals and the basics of the Python programming language (e.g., variables, for loops) and had a bit of experience with Jupyter Notebooks.
+Not a lot. It would help if you knew programming fundamentals and the basics of the Python programming language (e.g., variables, for loops) and had a bit of experience with Jupyter Notebooks. Also knowing your way around the terminal shell will help.
 However, I have always found that the most important and beneficial prerequisite is a will to learn new things so if you have this quality, you'll definitely get something out of this code-along session.
+
+If you are going to use the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3 (see below), I ask that you install it before the session.
 
 
 ## Getting set up computationally
