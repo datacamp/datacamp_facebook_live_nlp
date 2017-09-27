@@ -18,6 +18,8 @@ The NLP skills you develop, however, will be applicable to much of the data that
 Not a lot. It would help if you knew programming fundamentals and the basics of the Python programming language (e.g., variables, for loops) and had a bit of experience with Jupyter Notebooks.
 However, I have always found that the most important and beneficial prerequisite is a will to learn new things so if you have this quality, you'll definitely get something out of this code-along session.
 
+<img src="img/d-x.png" width="350">
+
 
 ## Getting set up computationally
 
