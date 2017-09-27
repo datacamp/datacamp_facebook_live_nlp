@@ -29,7 +29,7 @@ git clone https://github.com/datacamp/datacamp_facebook_live_nlp
 
 Alternatively, you can download the zip file of the repository at the top of the main page of the repository. If you prefer not to use git or don't have experience with it, this a goo option.
 
-If you do not already have the [Anaconda distribution](https://www.anaconda.com/download/) of Python, go get it (n.b., you can also do this w/out Anaconda using `pip` to install the required packages, however Anaconda is great for Data Science and I encourage you to use it).
+If you do not already have the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3, go get it (n.b., you can also do this w/out Anaconda using `pip` to install the required packages, however Anaconda is great for Data Science and I encourage you to use it).
 
 Navigate to the relevant directory `datacamp_facebook_live_nlp` and install required packages in a new conda environment:
 
