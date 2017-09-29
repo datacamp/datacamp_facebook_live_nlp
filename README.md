@@ -6,7 +6,7 @@ with DataCamp's very own Hugo Bowne-Anderson
 ## Description
 
 <p align="center">
-<img src="img/fb_live_schematic.png" width="450">
+<img src="img/fb_live_schematic.png" width="550">
 </p>
 
 In this live code-along session, you'll learn how to build a Data Science pipeline to plot frequency histograms of words in *Moby Dick*, among many other novels.
