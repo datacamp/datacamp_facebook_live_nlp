@@ -1,8 +1,7 @@
 
 # Frequencies of words in novels: a Data Science pipeline
 
-with DataCamp's very own Hugo Bowne-Anderson
-follow him on twitter [@hugobowne](https://twitter.com/hugobowne)
+with DataCamp's very own Hugo Bowne-Anderson. Follow him on twitter [@hugobowne](https://twitter.com/hugobowne)
 
 <p align="center">
 <img src="img/live_preview.jpeg" width="550">
