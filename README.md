@@ -1,7 +1,8 @@
 
 # Frequencies of words in novels: a Data Science pipeline
 
-with DataCamp's very own Hugo Bowne-Anderson. Follow him on twitter [@hugobowne](https://twitter.com/hugobowne)
+with DataCamp's very own Hugo Bowne-Anderson
+follow him on twitter [@hugobowne](https://twitter.com/hugobowne)
 
 <p align="center">
 <img src="img/live_preview.jpeg" width="550">
@@ -14,14 +15,14 @@ with DataCamp's very own Hugo Bowne-Anderson. Follow him on twitter [@hugobowne]
 <img src="img/fb_live_schematic.png" width="550">
 </p>
 
-In this live code-along session, you'll learn how to build a Data Science pipeline to plot frequency histograms of words in *Moby Dick*, among many other novels.
+In this live code-along session, you'll learn how to build a Data Science pipeline to plot frequency distributions of words in *Moby Dick*, among many other novels.
 We won't give you the novels: you'll learn to scrape them from the website [Project Gutenberg](https://www.gutenberg.org/) (large corpus of books) using the Python package `requests` and how
 to extract the novels from this web data using `BeautifulSoup`. Then you'll dive in to analyzing the novels using the Natural Language ToolKit (`nltk`).
 In the process you'll learn about important aspects of Natural Language Processing (NLP) such as tokenization and stopwords.
-You'll come out being able to visualize word frequency histograms of any novel that you can find on Project Gutenberg.
+You'll come out being able to visualize word frequency distributions of any novel that you can find on Project Gutenberg.
 The NLP skills you develop, however, will be applicable to much of the data that Data Scientists encounter as the vast proportion of the world's data is unstructured data and includes a great deal of text.
 
-For example, what would the following word frequency histogram be from?
+For example, what would the following word frequency distribution be from?
 
 <p align="center">
 <img src="img/d-x.png" width="450">
