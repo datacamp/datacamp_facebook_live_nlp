@@ -2,6 +2,12 @@
 # Frequencies of words in novels: a Data Science pipeline
 
 with DataCamp's very own Hugo Bowne-Anderson
+follow him on twitter [@hugobowne](https://twitter.com/hugobowne)
+
+<p align="center">
+<img src="img/live_preview.jpeg" width="550">
+</p>
+
 
 ## Description
 
@@ -24,7 +30,7 @@ For example, what would the following word frequency histogram be from?
 
 ## Prerequisites
 
-Not a lot. It would help if you knew 
+Not a lot. It would help if you knew
 
 * programming fundamentals and the basics of the Python programming language (e.g., variables, for loops);
 * a bit about Jupyter Notebooks;
@@ -70,7 +76,7 @@ source activate fb_live_nlp
 
 ### 4. Open your Jupyter notebook
 
-In the terminal, execute `jupyter notebook`. 
+In the terminal, execute `jupyter notebook`.
 
 Then open the notebook `NLP_FB_live_coding.ipynb` and we're ready to get coding. Enjoy.
 
