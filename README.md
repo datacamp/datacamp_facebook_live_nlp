@@ -67,11 +67,17 @@ Navigate to the relevant directory `datacamp_facebook_live_nlp` and install requ
 conda env create -f environment.yml
 ```
 
-This will create a new environment called fb_live_nlp. To activate the environment, execute
+This will create a new environment called fb_live_nlp. To activate the environment on OSX/Linux, execute
 
 ```
 source activate fb_live_nlp
 ```
+On Windows, execute
+
+```
+activate fb_live_nlp
+```
+
 
 ### 4. Open your Jupyter notebook
 
